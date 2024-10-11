@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "author": "Jane Doe",
+      "content": "React Hooks are a powerful feature introduced in React 16.8...",
+      "publishedDate": "2023-08-01",
+      "likes": 10,
+      "dislikes": 2
+    },
+    {
+      "id": 2,
+      "title": "Tailwind CSS in Practice",
+      "author": "John Smith",
+      "content": "Tailwind CSS is a utility-first CSS framework that provides...",
+      "publishedDate": "2023-07-15",
+      "likes": 15,
+      "dislikes": 1
+    }
+  ]
+  

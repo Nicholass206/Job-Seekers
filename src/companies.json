@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Tech Corp",
+      "industry": "Information Technology",
+      "description": "Tech Corp is a leading innovator in the IT industry...",
+      "location": "San Francisco, CA",
+      "size": 500
+    },
+    {
+      "id": 2,
+      "name": "HealthPlus",
+      "industry": "Healthcare",
+      "description": "HealthPlus is dedicated to providing top-notch healthcare services...",
+      "location": "New York, NY",
+      "size": 200
+    },
+    {
+      "id": 3,
+      "name": "EcoBuild",
+      "industry": "Construction",
+      "description": "EcoBuild specializes in sustainable construction projects...",
+      "location": "Seattle, WA",
+      "size": 150
+    }
+  ]
+  
